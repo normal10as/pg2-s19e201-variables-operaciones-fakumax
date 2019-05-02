@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_07.equivalencia_dias\\1_07.equivalencia_dias.vbproj": {}
+    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_07.equivalencia_dias\\1_07.equivalencia_dias.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_07.equivalencia_dias\\1_07.equivalencia_dias.vbproj": {
+    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_07.equivalencia_dias\\1_07.equivalencia_dias.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_07.equivalencia_dias\\1_07.equivalencia_dias.vbproj",
+        "projectUniqueName": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_07.equivalencia_dias\\1_07.equivalencia_dias.vbproj",
         "projectName": "1_07.equivalencia_dias",
-        "projectPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_07.equivalencia_dias\\1_07.equivalencia_dias.vbproj",
+        "projectPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_07.equivalencia_dias\\1_07.equivalencia_dias.vbproj",
         "packagesPath": "C:\\Users\\n0mak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_07.equivalencia_dias\\obj\\",
+        "outputPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-fakumax\\Variables\\1_07.equivalencia_dias\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -5,33 +5,39 @@ VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1_01.variables_consola", "1_01.variables_consola\1_01.variables_consola.vbproj", "{B46C3E93-C812-4004-9BEA-C151D7AC7590}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_02.variables_tipos", "1_02.variables_tipos\1_02.variables_tipos.vbproj", "{F7892355-3AB5-4B2C-A0BE-6B32EE4BE32B}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1_02.variables_tipos", "1_02.variables_tipos\1_02.variables_tipos.vbproj", "{F7892355-3AB5-4B2C-A0BE-6B32EE4BE32B}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_03.concatenacion", "1_03.concatenacion\1_03.concatenacion.vbproj", "{2C381652-08C8-48EB-B962-CB80668B7B97}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1_03.concatenacion", "1_03.concatenacion\1_03.concatenacion.vbproj", "{2C381652-08C8-48EB-B962-CB80668B7B97}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_04.aritmetica", "1_04.aritmetica\1_04.aritmetica.vbproj", "{040F856B-42C9-40C5-8601-BE87D2C66C61}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1_04.aritmetica", "1_04.aritmetica\1_04.aritmetica.vbproj", "{040F856B-42C9-40C5-8601-BE87D2C66C61}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_05.cuadratica", "1_05.cuadratica\1_05.cuadratica.vbproj", "{A8E3BCF8-96D6-41DE-97B1-630B0C50567B}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1_05.cuadratica", "1_05.cuadratica\1_05.cuadratica.vbproj", "{A8E3BCF8-96D6-41DE-97B1-630B0C50567B}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_06.suma_promedio", "1_06.suma_promedio\1_06.suma_promedio.vbproj", "{0A18389C-40A3-4D50-A744-D7204D25796C}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1_06.suma_promedio", "1_06.suma_promedio\1_06.suma_promedio.vbproj", "{0A18389C-40A3-4D50-A744-D7204D25796C}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_07.equivalencia_dias", "1_07.equivalencia_dias\1_07.equivalencia_dias.vbproj", "{97CE5A10-E05D-49C5-B611-31DE6F1C5DA4}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1_07.equivalencia_dias", "1_07.equivalencia_dias\1_07.equivalencia_dias.vbproj", "{97CE5A10-E05D-49C5-B611-31DE6F1C5DA4}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_08.Tabla_booleana", "1_08.Tabla_booleana\1_08.Tabla_booleana.vbproj", "{9E3BBDF4-F1AE-4B80-B063-E5D4135DAE44}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1_08.Tabla_booleana", "1_08.Tabla_booleana\1_08.Tabla_booleana.vbproj", "{9E3BBDF4-F1AE-4B80-B063-E5D4135DAE44}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_09.Interes", "1_09.Interes\1_09.Interes.vbproj", "{A5F9BBF0-D057-4DA9-8765-2A72894EA3D7}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1_09.Interes", "1_09.Interes\1_09.Interes.vbproj", "{A5F9BBF0-D057-4DA9-8765-2A72894EA3D7}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_10.Resto_division", "1_10.Resto_division\1_10.Resto_division.vbproj", "{A313358C-F144-4DAD-814F-59B62A94FF80}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1_10.Resto_division", "1_10.Resto_division\1_10.Resto_division.vbproj", "{A313358C-F144-4DAD-814F-59B62A94FF80}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_11.Matematica1", "1_11.Matematica1\1_11.Matematica1.vbproj", "{95A6E15E-51D4-40A0-B464-FEC26B52504E}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1_11.Matematica1", "1_11.Matematica1\1_11.Matematica1.vbproj", "{95A6E15E-51D4-40A0-B464-FEC26B52504E}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_12.Redondeo", "1_12.Redondeo\1_12.Redondeo.vbproj", "{752FF95A-5603-4328-9930-1759E73C756D}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1_12.Redondeo", "1_12.Redondeo\1_12.Redondeo.vbproj", "{752FF95A-5603-4328-9930-1759E73C756D}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_13.Mayor", "1_13.Mayor\1_13.Mayor.vbproj", "{C078B2A1-F0E0-476D-BC6B-AD665B875F54}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1_13.Mayor", "1_13.Mayor\1_13.Mayor.vbproj", "{C078B2A1-F0E0-476D-BC6B-AD665B875F54}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_14.Cadenas1", "1_14.Cadenas1\1_14.Cadenas1.vbproj", "{720F9D62-FA23-4AFE-ADE5-3EB831B19FBF}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_15.Refrase", "1_15.Refrase\1_15.Refrase.vbproj", "{A4C42754-763E-441E-A23D-926DEF37CF64}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_16.Reloj", "1_16.Reloj\1_16.Reloj.vbproj", "{80352FC1-7F1C-46F8-A8C8-CD56796C2F1A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_17.Ajustar_reloj", "1_17.Ajustar_reloj\1_17.Ajustar_reloj.vbproj", "{89F27BFF-5F15-4A3E-AA3D-BE8DB1AF80C8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1_18.Nueva_fecha", "1_18.Nueva_fecha\1_18.Nueva_fecha.vbproj", "{922CA20A-E5FE-49A7-931A-E457599CFE4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +105,18 @@ Global
 		{A4C42754-763E-441E-A23D-926DEF37CF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4C42754-763E-441E-A23D-926DEF37CF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4C42754-763E-441E-A23D-926DEF37CF64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80352FC1-7F1C-46F8-A8C8-CD56796C2F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80352FC1-7F1C-46F8-A8C8-CD56796C2F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80352FC1-7F1C-46F8-A8C8-CD56796C2F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80352FC1-7F1C-46F8-A8C8-CD56796C2F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F27BFF-5F15-4A3E-AA3D-BE8DB1AF80C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F27BFF-5F15-4A3E-AA3D-BE8DB1AF80C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F27BFF-5F15-4A3E-AA3D-BE8DB1AF80C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F27BFF-5F15-4A3E-AA3D-BE8DB1AF80C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922CA20A-E5FE-49A7-931A-E457599CFE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922CA20A-E5FE-49A7-931A-E457599CFE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922CA20A-E5FE-49A7-931A-E457599CFE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922CA20A-E5FE-49A7-931A-E457599CFE4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
